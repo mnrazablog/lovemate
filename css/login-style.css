@@ -1,7 +1,10 @@
 /* Made with love by Mutiullah Samim*/
 
 @import url('https://fonts.googleapis.com/css?family=Numans');
-
+*{
+    margin: 0;
+    padding: 0;;
+}
 html,body{
 background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
 background-size: cover;
@@ -9,16 +12,18 @@ background-repeat: no-repeat;
 height: 100%;
 font-family: 'Numans', sans-serif;
 }
-
-.container{
+.mainForm{
+    padding-top: 15%;
+}
+/* .container{
 height: 100%;
 align-content: center;
-}
+} */
 
 .card{
 height: 370px;
-margin-top: auto;
-margin-bottom: auto;
+/* margin-top: auto;
+margin-bottom: auto; */
 width: 400px;
 background-color: rgba(0,0,0,0.5) !important;
 }
