@@ -4,8 +4,7 @@
   border: none;
 }
  body { color: #ccc; }
-}
-
+ 
 .footer-widget p {
     margin-bottom: 27px;
 }
@@ -301,8 +300,8 @@ p {
     border-radius: 50%;
     padding: 0;
     position: fixed;
-    bottom: 20px;
-    right: 20px;
+    bottom: 198px;
+    right: 84px;
     background: #2e2e2e;
     border-color: #2e2e2e;
     display: none;
