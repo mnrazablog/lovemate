@@ -3,6 +3,10 @@
   margin: 0px;
   border: none;
 }
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
  footer { color: #ccc; }
  
 .footer-widget p {
